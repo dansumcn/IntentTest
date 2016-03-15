@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">IntentTest</string>
+    <string name="title0">大标题，嗯哼。</string>
+    <string name="content0">说明文字放在这里，啊哈。</string>
+    <string name="button0">发出通知</string>
+</resources>
