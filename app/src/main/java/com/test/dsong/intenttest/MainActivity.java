@@ -3,7 +3,6 @@ package com.test.dsong.intenttest;
 2016.3.16.修改：
 1、11：43加入本行。
 2、12：19加入本行。
-
 */
 
 import android.app.Activity;
